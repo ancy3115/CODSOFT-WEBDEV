@@ -2,7 +2,9 @@ I am interested in software development.Hence,I got an opportunity to be an inte
 I can develop my skills in web development.
 Here,The internship has 3 levels.First level has 3 tasks,Second level has 2 tasks and Third level has 2 tasks.The internship need to complete any one level full.
 So I decided to complete the first level tasks.
+
 The following projects are in Level 1:
+
 TASK 1:LANDING PAGE
 ____________________________________________________________________________________________________________________________________
 A landing page is an ideal web development project for beginners. It requires basic knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide sections, arrange items, and add headers and footers. The most important aspect is
